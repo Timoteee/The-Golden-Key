@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://thegoldenkey.netlify.app/'
 languageCode = 'en-us'
 title = 'The Golden Key
 theme = "hugo-theme-relearn"

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction on The Golden Key🔑</title>
+    <link>https://thegoldenkey.netlify.app/tags/introduction/index.html</link>
+    <description>Recent content in Introduction on The Golden Key🔑</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://thegoldenkey.netlify.app/tags/introduction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hosting Minecraft</title>
+      <link>https://thegoldenkey.netlify.app/minecraft/the_host/index.html</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://thegoldenkey.netlify.app/minecraft/the_host/index.html</guid>
+      <description>Introduction The hope is to run two minecraft servers simultaneously with the use of a minecraft admin panel, for quick deployment and management. If all is done and said, I will host the servers for anyone to join.</description>
+    </item>
+    <item>
+      <title>Minecraft Server Process</title>
+      <link>https://thegoldenkey.netlify.app/minecraft/index.html</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://thegoldenkey.netlify.app/minecraft/index.html</guid>
+      <description>Introduction The hope is to run two minecraft servers simultaneously with the use of a minecraft admin panel, for quick deployment and management. If all is done and said, I will host the servers for anyone to join.
+MindMap Progress Finding a host, whether physically or provided via a cloud service Determine Appropriate Minecraft Versions for both Vanilla and Modded Experiences Determine which server clients are suitable for the minecraft server Determine which Server Panel is the most serviceable.</description>
+    </item>
+    <item>
+      <title>Welcome</title>
+      <link>https://thegoldenkey.netlify.app/index.html</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://thegoldenkey.netlify.app/index.html</guid>
+      <description>Introduction Who Am I? Hello there! I&amp;rsquo;m Timothy, just like you. I&amp;rsquo;ve discovered something interesting about myself while working on personal projects like OS installation, Virtual Machines, and running servers. I have this tendency to dive into various tangents, exploring different avenues along the way. It hasn&amp;rsquo;t always been smooth sailing, as I&amp;rsquo;ve faced my fair share of obstacles. But you know what? I&amp;rsquo;ve never let them discourage me. Instead, I&amp;rsquo;ve embraced the challenge, searching high and low for solutions and workarounds.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,3 +1,10 @@
+---
+title: Welcome
+date: 2023-05-20
+draft: false
+tags: ["Introduction"]
+---
+
 # Introduction
 
 
@@ -40,4 +47,3 @@ I'm excited to embark on these projects, and while I'm still an amateur, I belie
 Remember, even the most skilled individuals were beginners once. So let's embrace it, learn from one another, and soar to new heights. With a positive mindset and a dash of humor, we'll make our way to success!
 
 Stay awesome and keep shining brightly!
-

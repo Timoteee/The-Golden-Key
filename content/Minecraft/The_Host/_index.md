@@ -1,6 +1,9 @@
+---
+title: Hosting Minecraft
+date: 2023-05-20
+draft: false
+tags: ["Minecraft", "Introduction"]
+---
+
 # Introduction
-The host is obviously the most important part of running any server, it is after all the "server" of information, data and responses. For a minecraft server it may be very crucial to find the right host, locally in the physical sense although preferable may not be the best case.
-
-
-
-
+The hope is to run two minecraft servers simultaneously  with the use of a minecraft admin panel, for quick deployment and management. If all is done and said, I will host the servers for anyone to join.

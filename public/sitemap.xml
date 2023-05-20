@@ -1,16 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/my-post/index.html</loc>
-    <lastmod>2023-05-19T00:00:00+00:00</lastmod>
+    <loc>https://thegoldenkey.netlify.app/minecraft/the_host/index.html</loc>
+    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/categories/index.html</loc>
+    <loc>https://thegoldenkey.netlify.app/tags/introduction/index.html</loc>
+    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/index.html</loc>
+    <loc>https://thegoldenkey.netlify.app/tags/minecraft/index.html</loc>
+    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>http://example.org/tags/index.html</loc>
+    <loc>https://thegoldenkey.netlify.app/minecraft/index.html</loc>
+    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://thegoldenkey.netlify.app/tags/index.html</loc>
+    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://thegoldenkey.netlify.app/index.html</loc>
+    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://thegoldenkey.netlify.app/categories/index.html</loc>
   </url>
 </urlset>

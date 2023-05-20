@@ -1,3 +1,4 @@
+
 ---
 title: Ideal Hosting 
 date: 2023-05-20
@@ -15,9 +16,9 @@ Understanding Server Requirements: Before diving into hosting options, it's impo
 **FOR 1-2 PLAYERS**
 | SPECS |Vanilla |Modded|
 |--|--|--|
-|CPU|  ||
-|RAM|  ||
-|SSD|  ||
+|CPU| 2Ghz ||
+|RAM| 2 GB ||
+|SSD| 50 GB ||
 |Internet Speed|  ||
 ---
 **FOR 3-6 PLAYERS**
@@ -36,9 +37,6 @@ Understanding Server Requirements: Before diving into hosting options, it's impo
 |SSD|  ||
 |Internet Speed|  ||
 ---
-
-
-
 
 Local Hosting: Setting up a Minecraft server on your local machine can be a viable option if you have the necessary hardware and technical expertise. This allows you full control over server management and customization. To host locally, you'll need to configure your router, set up port forwarding, and ensure a static IP address for uninterrupted connectivity. It's crucial to have a reliable internet connection with sufficient upload and download speeds to handle player traffic.
 

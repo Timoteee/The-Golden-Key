@@ -8,3 +8,5 @@ theme = "hugo-theme-relearn"
   section = ["HTML", "RSS", "PRINT"]
   page = ["HTML", "RSS", "PRINT"]
 
+[params]
+  themeVariant = "relearn-dark"

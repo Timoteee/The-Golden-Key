@@ -4,6 +4,7 @@
    - set `markup.highlight.style` to a predefined style name in your config.toml
    - remove the following `@import` of the self-defined chroma stylesheet */
 
+
 :root {
     --PRIMARY-color: #ffd700; /* brand primary color */
     --SECONDARY-color: #6c8ce3; /* brand secondary color */

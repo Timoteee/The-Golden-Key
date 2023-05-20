@@ -2,3 +2,9 @@ baseURL = 'https://thegoldenkey.netlify.app/'
 languageCode = 'en-us'
 title = 'The Golden Key🔑'
 theme = "hugo-theme-relearn"
+
+[outputs]
+  home = ["HTML", "RSS", "PRINT", "SEARCH", "SEARCHPAGE"]
+  section = ["HTML", "RSS", "PRINT"]
+  page = ["HTML", "RSS", "PRINT"]
+

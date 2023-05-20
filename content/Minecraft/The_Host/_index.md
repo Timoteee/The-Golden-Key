@@ -2,7 +2,7 @@
 title: Ideal Hosting 
 date: 2023-05-20
 draft: false
-tags: ["Minecraft", "Introduction"]
+tags: ["Minecraft", "Server", "Hosting"]
 ---
 
 ## Introduction

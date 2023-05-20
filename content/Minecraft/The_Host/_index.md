@@ -1,5 +1,5 @@
 ---
-title: Choosing the Ideal Hosting Provider for Your Modded and Vanilla Minecraft Server
+title: Ideal Hosting 
 date: 2023-05-20
 draft: false
 tags: ["Minecraft", "Introduction"]
@@ -13,7 +13,7 @@ Understanding Server Requirements: Before diving into hosting options, it's impo
 
 ---
 **FOR 1-2 PLAYERS**
-|  |Vanilla |Modded|
+| SPECS |Vanilla |Modded|
 |--|--|--|
 |CPU|  ||
 |RAM|  ||
@@ -21,7 +21,7 @@ Understanding Server Requirements: Before diving into hosting options, it's impo
 |Internet Speed|  ||
 ---
 **FOR 3-6 PLAYERS**
-|  |Vanilla |Modded|
+| SPECS |Vanilla |Modded|
 |--|--|--|
 |CPU|  ||
 |RAM|  ||
@@ -29,7 +29,7 @@ Understanding Server Requirements: Before diving into hosting options, it's impo
 |Internet Speed|  ||
 ---
 **FOR >6 PLAYERS**
-|  |Vanilla |Modded|
+| SPECS |Vanilla |Modded|
 |--|--|--|
 |CPU|  ||
 |RAM|  ||

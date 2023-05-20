@@ -36,7 +36,7 @@ Understanding Server Requirements: Before diving into hosting options, it's impo
 |RAM|  ||
 |SSD|  ||
 |Internet Speed|  ||
-
+---
 
 Local Hosting: Setting up a Minecraft server on your local machine can be a viable option if you have the necessary hardware and technical expertise. This allows you full control over server management and customization. To host locally, you'll need to configure your router, set up port forwarding, and ensure a static IP address for uninterrupted connectivity. It's crucial to have a reliable internet connection with sufficient upload and download speeds to handle player traffic.
 

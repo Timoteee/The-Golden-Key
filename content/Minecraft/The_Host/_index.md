@@ -18,7 +18,7 @@ Understanding Server Requirements: Before diving into hosting options, it's impo
 |--|--|--|
 |CPU| 2Ghz ||
 |RAM| 2 GB ||
-|SSD| 50 GB ||
+|HDD/SSD| 50 GB ||
 |Internet Speed|  ||
 
 **FOR 3-6 PLAYERS**

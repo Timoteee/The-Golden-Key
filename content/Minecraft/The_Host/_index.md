@@ -5,6 +5,7 @@ date: 2023-05-20
 draft: false
 tags: ["Minecraft", "Server", "Hosting"]
 ---
+
 ## Introduction
 
 Choosing the best hosting company is essential when putting up a Minecraft server, whether it's for modded or stock gaming. Your gaming experience may be considerably impacted by the hosting service's performance, dependability, and support.  We will examine the language and technical details related to setting up a Minecraft server both locally and using cloud-based services. We will also suggest a few well-known hosting companies that excel at addressing the particular needs of servers running both modded and stock versions of Minecraft.
@@ -19,7 +20,7 @@ Understanding Server Requirements: Before diving into hosting options, it's impo
 |RAM| 2 GB - 4GB|4GB |
 |SSD| 10 GB |10 GB {varies with mods}|
 |Internet Speed| 1Mbps |3Mbps|
-
+---
 **FOR 3-6 PLAYERS**
 | SPECS |Vanilla |Modded|
 |--|--|--|
@@ -27,7 +28,7 @@ Understanding Server Requirements: Before diving into hosting options, it's impo
 |RAM| 4GB|6GB |
 |SSD| 10 GB |20 GB {varies with mods}|
 |Internet Speed| 3Mbps |5Mbps|
-
+---
 **FOR >6 PLAYERS**
 | SPECS |Vanilla |Modded|
 |--|--|--|
@@ -35,7 +36,7 @@ Understanding Server Requirements: Before diving into hosting options, it's impo
 |RAM| 8GB|12GB |
 |SSD| 20 GB |30 GB {varies with mods}|
 |Internet Speed| 5Mbps |10Mbps|
-
+---
 
 
 
@@ -154,4 +155,17 @@ It's important to note that the ranking above is subjective and can vary based o
 ## Conclusion
 
 Selecting the right hosting provider for your modded or vanilla Minecraft server is essential for a smooth and enjoyable gaming experience. Whether you choose to host locally or opt for a cloud-based service, ensure your server meets the necessary hardware and internet requirements. 
+
+## Final Verdict
+After careful consideration and endless hours of research, I have triumphantly chosen Oracle Cloud OCI as the ultimate provider for hosting my Minecraft server, be it vanilla or modded. And let me tell you, it's not just because they offer a jaw-dropping 24 GB of RAM, 4 mighty OCPUs, a whopping 100 GB SSD, a gargantuan 10 TB monthly network limit, and a panel for quick deployment.
+
+No, my friends, the true beauty of my decision lies in one simple fact: it's all free! Yes, you heard me right. Oracle Cloud OCI has bestowed upon me this formidable  hosting package without any charge. And in the realm of broke gamers like myself, this is a gift from the heavens—a no-brainer of epic proportions.
+
+I can already hear the chorus of skeptics and doubters whispering in the shadows, questioning the veracity of such a remarkable offer. But fret not, for I have delved into the technical abyss to uncover the truth. Oracle Cloud OCI is renowned for its cutting-edge infrastructure, equipped with state-of-the-art servers that can handle the relentless demands of Minecraft and the Minecraft Panel that I plan to configure on the host machine. The sheer power of those 24 GB of RAM and 4 OCPUs will ensure that there is smooth gameplay.
+
+ And with a monstrous 10 TB monthly network limit, my server can withstand the unrelenting traffic of fellow block enthusiasts, ensuring a lag-free experience.
+
+As I navigate through Oracle Cloud OCI's user-friendly panel, I can't help but feel like its almost too easy. 
+
+So, my fellow adventurers, with a joyous heart and pockets as empty as the void, I embark on this Minecraft hosting journey with Oracle Cloud OCI by my side. Together, we shall conquer the virtual realms, bask in the glory of boundless creativity, and remind ourselves that sometimes, just sometimes, the best things in life are indeed free.
 

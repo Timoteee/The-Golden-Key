@@ -10,7 +10,7 @@ theme = "hugo-theme-relearn"
 
 [params]
   # Change default color scheme with a variant one.
-themeVariant = [ "auto", "relearn-bright", "relearn-light", "relearn-dark", "learn", "gold-theme" ,"neon", "blue", "green", "red" ]
+themeVariant = [ "gold-theme", "auto", "relearn-bright", "relearn-light", "relearn-dark", "learn", ,"neon", "blue", "green", "red" ]
 
 themeVariantAuto = [ "relearn-light", "relearn-dark" ]
 

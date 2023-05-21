@@ -1,5 +1,6 @@
 
 
+
 ---
 title: Welcome
 date: 2023-05-20
@@ -8,8 +9,8 @@ tags: ["Introduction"]
 ---
 
 # Introduction
-![Goldenkey](https://picsvg.com/svg/VxrCsF01.svg?v=3669 "Logo")
-<img src="https://picsvg.com/svg/VxrCsF01.svg?v=3669" alt= “Logo” width="100" height="100">
+
+<img src="https://picsvg.com/svg/VxrCsF01.svg?v=3669" alt= “Logo” width="200" height="200">
 
 ## Who Am I?
 Hello there! I'm Timothy, just like you. I've discovered something interesting about myself while working on personal projects like OS installation, Virtual Machines, and running servers. I have this tendency to dive into various tangents, exploring different avenues along the way. It hasn't always been smooth sailing, as I've faced my fair share of obstacles. But you know what? I've never let them discourage me. Instead, I've embraced the challenge, searching high and low for solutions and workarounds.

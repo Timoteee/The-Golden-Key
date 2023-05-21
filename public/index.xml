@@ -13,7 +13,7 @@
       <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
       <guid>https://thegoldenkey.netlify.app/minecraft/index.html</guid>
       <description>Introduction The hope is to run two minecraft servers simultaneously with the use of a minecraft admin panel, for quick deployment and management. If all is done and said, I will host the servers for anyone to join.
-MindMap Progress Finding a host, whether physically or provided via a cloud service Determine Appropriate Minecraft Versions for both Vanilla and Modded Experiences Determine which server clients are suitable for the minecraft server Determine which Server Panel is the most serviceable.</description>
+MindMap Progress Finding a host, whether physically or provided via a cloud service. &amp;ndash;After heavy analysis, Oracle OCI has been determined as the best canidate. Read Analysis Determine Appropriate Minecraft Versions for both Vanilla and Modded Experiences Determine which server clients are suitable for the minecraft server Determine Launch Options and other Configurations Determine which Server Panel is the most serviceable.</description>
     </item>
   </channel>
 </rss>

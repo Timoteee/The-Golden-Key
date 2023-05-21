@@ -9,7 +9,6 @@ theme = "hugo-theme-relearn"
   page = ["HTML", "RSS", "PRINT"]
 
 [params]
-  # Change default color scheme with a variant one.
 themeVariant = [ "gold-theme", "auto", "relearn-bright", "relearn-light", "relearn-dark", "learn", ,"neon", "blue", "green", "red" ]
 
 themeVariantAuto = [ "relearn-light", "relearn-dark" ]

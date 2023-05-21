@@ -13,10 +13,12 @@ The hope is to run two minecraft servers simultaneously  with the use of a minec
 
 ## Progress
 
- - [ ] Finding a host, whether physically or provided via a cloud service
+ - [x] Finding a host, whether physically or provided via a cloud service. --After heavy analysis, Oracle OCI has been determined as the best canidate. [Read Analysis](https://thegoldenkey.netlify.app/minecraft/the_host/index.html)
  - [ ] Determine Appropriate Minecraft Versions for both Vanilla and Modded Experiences
  - [ ] Determine  which server clients are suitable for the minecraft server
+ - [ ] Determine Launch Options and other Configurations
  - [ ] Determine which Server Panel is the most serviceable.
  - [ ] Determine Appropriate plugins, mods and tools for each server. 
  - [ ] Evaluate Performance
  - [ ] Post Observations
+

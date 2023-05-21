@@ -20,7 +20,7 @@ Understanding Server Requirements: Before diving into hosting options, it's impo
 |RAM| 2 GB - 4GB|4GB |
 |SSD| 10 GB |10 GB {varies with mods}|
 |Internet Speed| 1Mbps |3Mbps|
----
+
 **FOR 3-6 PLAYERS**
 | SPECS |Vanilla |Modded|
 |--|--|--|
@@ -28,7 +28,7 @@ Understanding Server Requirements: Before diving into hosting options, it's impo
 |RAM| 4GB|6GB |
 |SSD| 10 GB |20 GB {varies with mods}|
 |Internet Speed| 3Mbps |5Mbps|
----
+
 **FOR >6 PLAYERS**
 | SPECS |Vanilla |Modded|
 |--|--|--|
@@ -36,7 +36,7 @@ Understanding Server Requirements: Before diving into hosting options, it's impo
 |RAM| 8GB|12GB |
 |SSD| 20 GB |30 GB {varies with mods}|
 |Internet Speed| 5Mbps |10Mbps|
----
+
 
 
 

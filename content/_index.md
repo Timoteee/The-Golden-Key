@@ -1,4 +1,3 @@
-
 ---
 title: Welcome
 date: 2023-05-20
@@ -7,7 +6,7 @@ tags: ["Introduction"]
 ---
 
 # Introduction
-<img src="https://i.ibb.co/30BWgMY/Black-White-Modern-Contemporary-Minimalist-Letter-Initial-Monogram-Logo-2-removebg-preview-2.png" alt="Black-White-Modern-Contemporary-Minimalist-Letter-Initial-Monogram-Logo-2-removebg-preview-2" border="0">
+![Goldenkey](https://i.ibb.co/30BWgMY/Black-White-Modern-Contemporary-Minimalist-Letter-Initial-Monogram-Logo-2-removebg-preview-2.png)
 
 ## Who Am I?
 Hello there! I'm Timothy, just like you. I've discovered something interesting about myself while working on personal projects like OS installation, Virtual Machines, and running servers. I have this tendency to dive into various tangents, exploring different avenues along the way. It hasn't always been smooth sailing, as I've faced my fair share of obstacles. But you know what? I've never let them discourage me. Instead, I've embraced the challenge, searching high and low for solutions and workarounds.
@@ -48,3 +47,4 @@ I'm excited to embark on these projects, and while I'm still an amateur, I belie
 Remember, even the most skilled individuals were beginners once. So let's embrace it, learn from one another, and soar to new heights. With a positive mindset and a dash of humor, we'll make our way to success!
 
 Stay awesome and keep shining brightly!
+

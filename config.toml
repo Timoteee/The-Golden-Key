@@ -13,9 +13,4 @@ themeVariant = [ "gold-theme", "auto", "relearn-bright", "relearn-light", "relea
 
 themeVariantAuto = [ "relearn-light", "relearn-dark" ]
 
-[[menu.shortcuts]]
-name = "<i class='fa fa-tint'></i> Social Media[WIP]"
-identifier = "Social"
-url = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-weight = 10
 

@@ -9,6 +9,14 @@ tags: ["Introduction"]
 
 ![Goldenkey](https://picsvg.com/svg/VxrCsF01.svg?v=3669?height=50px&width=50vw "Logo")
 
+{{% notice style="info" %}}
+
+
+
+> Before you continue, you can also read about navigating the website and interacting with features such as changing the theme of the website.[Navigating](https://thegoldenkey.netlify.app/the-website/index.html)
+{{% /notice %}}
+
+
 ## Who Am I?
 Hello there! I'm Timothy, just like you. I've discovered something interesting about myself while working on personal projects like OS installation, Virtual Machines, and running servers. I have this tendency to dive into various tangents, exploring different avenues along the way. It hasn't always been smooth sailing, as I've faced my fair share of obstacles. But you know what? I've never let them discourage me. Instead, I've embraced the challenge, searching high and low for solutions and workarounds.
 

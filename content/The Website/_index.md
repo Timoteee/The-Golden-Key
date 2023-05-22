@@ -5,7 +5,7 @@ draft: false
 tags: ["Introduction"]
 ---
 
-# Welcome to The Golden Key Website!
+## Welcome to The Golden Key Website!
 
 The Golden Key is an informative website built on top of [Hugo](https://gohugo.io/), a powerful and flexible static site generator. It utilizes the **[hugo-relearn-theme](https://github.com/McShelby/hugo-theme-relearn)**, providing a clean and elegant design that enhances the reading experience.
 

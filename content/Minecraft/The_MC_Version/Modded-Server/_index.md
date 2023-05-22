@@ -1,6 +1,6 @@
 
 ---
-title: Choosing the right modded version
+title: Choosing the right version
 date: 2023-05-20
 draft: false
 tags: ["Minecraft","Server","Modded"]
@@ -14,7 +14,7 @@ Are you ready to embark on an exciting modded Minecraft adventure? Before diving
 
 The first consideration is ensuring compatibility between your desired Minecraft version and the available server clients. Server clients are essential for running and managing a multiplayer Minecraft server. They provide the necessary infrastructure to host your server and allow players to connect and interact.
 
-Different Minecraft versions may have varying server client options available. It's important to research and ensure that the version you choose has stable and reliable server clients. Popular server clients like **Spigot**, **Paper**, **Forge**, and **Fabric** offer compatibility with different Minecraft versions, so it's crucial to check their respective websites to determine the versions they support.
+Different Minecraft versions may have varying server client options available. It's important to research and ensure that the version you choose has stable and reliable server clients. Popular server clients like **[Spigot](https://www.spigotmc.org/)**, **[Paper](https://papermc.io/)**, **[Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)**, and **[Fabric](https://fabricmc.net/)** offer compatibility with different Minecraft versions, so it's crucial to check their respective websites to determine the versions they support.
 
 ## Mod Availability
 
@@ -45,7 +45,7 @@ However, it's crucial to consider the capabilities of the system hosting your se
 
 [![](https://mermaid.ink/img/pako:eNp901tvgjAYgOG_QuoNJkqAcigsWcLROWUaNbvippE6iRwM1mxG_e-DSSq4CFdA3qd8JekZrPOIABN8FXi_5aaLMOPK60BPCeEsbhMnidnzfQOJ4uBAi3xHzJ6nqRJ7HH7HEd2a8v7npUkdRlVdlhtUsSSjm3qMOpKoM9oa4gkdMerZ0L5T10VQ7abjmiLbgYrFqIYMH6JuOqmp4li-ev9NECEPOt00qKko2o6rMCqKhm7p3XRWU1kyNB8yKhm65srPqMVLgqQISp8bDl8vtrdaeYvAuXA2D0XOny_7t8ypMlWQHzOXV5qZV2WaoD5mPg_VRjaqMuP_am88RI1s3JrtE2fl9vCFe-fl5mKT1mismrY_GbQmY9VHe5uz1mCsmvNQriswACkpUhxH5RE5VyoEdEtSEgKzvI1wsQtBmF3LDh9pvjxla2DS4kgG4LiPMCVujMuTlQJzg5ND-ZZEMc2L4Hbm_o7e9Re9_wd5?type=png)](https://mermaid.live/edit#pako:eNp901tvgjAYgOG_QuoNJkqAcigsWcLROWUaNbvippE6iRwM1mxG_e-DSSq4CFdA3qd8JekZrPOIABN8FXi_5aaLMOPK60BPCeEsbhMnidnzfQOJ4uBAi3xHzJ6nqRJ7HH7HEd2a8v7npUkdRlVdlhtUsSSjm3qMOpKoM9oa4gkdMerZ0L5T10VQ7abjmiLbgYrFqIYMH6JuOqmp4li-ev9NECEPOt00qKko2o6rMCqKhm7p3XRWU1kyNB8yKhm65srPqMVLgqQISp8bDl8vtrdaeYvAuXA2D0XOny_7t8ypMlWQHzOXV5qZV2WaoD5mPg_VRjaqMuP_am88RI1s3JrtE2fl9vCFe-fl5mKT1mismrY_GbQmY9VHe5uz1mCsmvNQriswACkpUhxH5RE5VyoEdEtSEgKzvI1wsQtBmF3LDh9pvjxla2DS4kgG4LiPMCVujMuTlQJzg5ND-ZZEMc2L4Hbm_o7e9Re9_wd5)
 
-The performance comparison graph illustrates the FPS (Frames Per Second) values for different Minecraft versions with and without the BETTERMC mod enabled. The graph showcases the impact of the mod on the game's performance.
+The performance comparison graph illustrates the FPS (Frames Per Second) values for different Minecraft versions with and without the BETTERMC mod enabled on an integrated Intel GPU system intel i5 4th gen. The graph showcases the impact of the mod on the game's performance.
 
 The graph consists of two sets of nodes: one set represents Minecraft versions with the BETTERMC mod enabled, and the other set represents the same versions without the mod (Vanilla). The color-coded nodes make it easy to differentiate between the versions.
 

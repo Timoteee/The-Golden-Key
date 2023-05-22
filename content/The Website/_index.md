@@ -46,7 +46,7 @@ To showcase the capabilities of Markdown and its usefulness in documenting exper
 
 4. **Links**: You can add links by using the following format: `[link text](url)`. For example: `[Visit our website](https://thegoldenkey.netlify.app/)`
 
-5. **Code**: You can include inline code by wrapping it with backticks (`), like `inline code`. To display a code block, use triple backticks to specify the programming language:
+5. **Code**: You can include inline code by wrapping it with backticks (), like `inline code`. To display a code block, use triple backticks to specify the programming language:
 
    ```python
    def greet(name):

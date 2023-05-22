@@ -1,4 +1,5 @@
----
+
+ ---
 title: Minecraft Server Process
 date: 2023-05-20
 draft: false
@@ -14,7 +15,7 @@ The hope is to run two minecraft servers simultaneously  with the use of a minec
 ## Progress
 
  - [x] Finding a host, whether physically or provided via a cloud service. --After heavy analysis, Oracle OCI has been determined as the best canidate. [Read Analysis](https://thegoldenkey.netlify.app/minecraft/the_host/index.html)
- - [ ] Determine Appropriate Minecraft Versions for both Vanilla and Modded Experiences
+ - [x] Determine Appropriate Minecraft Versions for both Vanilla and Modded Experiences
  - [ ] Determine  which server clients are suitable for the minecraft server
  - [ ] Determine Launch Options and other Configurations
  - [ ] Determine which Server Panel is the most serviceable.

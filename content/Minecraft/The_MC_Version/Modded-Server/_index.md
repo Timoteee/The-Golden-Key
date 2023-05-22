@@ -1,6 +1,6 @@
 
 ---
-title: Choosing the right version
+title: Choosing the right modded version
 date: 2023-05-20
 draft: false
 tags: ["Minecraft","Server","Modded"]

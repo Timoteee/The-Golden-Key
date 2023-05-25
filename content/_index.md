@@ -7,7 +7,7 @@ tags: ["Introduction"]
 
 # Introduction
 
-![Goldenkey](https://picsvg.com/svg/VxrCsF01.svg?v=3669?height=50px&width=50vw "Logo")
+![Goldenkey](logo.svg "Logo")
 
 {{% notice style="info" %}}
 

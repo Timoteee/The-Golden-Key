@@ -1,5 +1,5 @@
  ---
-title: Choosing The Vanilla Server Client
+title: Vanilla Server Client
 date: 2023-05-25
 draft: false
 tags: ["Minecraft","Server"]

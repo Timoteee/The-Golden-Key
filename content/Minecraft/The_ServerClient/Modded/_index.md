@@ -1,5 +1,5 @@
 ---
-title: Modded  Sever Client
+title: Modded  Server Client
 date: 2023-05-25
 draft: false
 tags: ["Minecraft","Server"]

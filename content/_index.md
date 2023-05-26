@@ -1,3 +1,4 @@
+
 ---
 title: Welcome
 date: 2023-05-20
@@ -7,7 +8,7 @@ tags: ["Introduction"]
 
 # Introduction
 
-![Goldenkey](logo.svg "Logo")
+![Goldenkey](/home/timothy/Documents/GitHub/TGK/The-Golden-Key/The-Golden-Key/static/images "Logo")
 
 {{% notice style="info" %}}
 
